@@ -44,7 +44,7 @@ body{
     color: white;
 }
 
-.news-heading, .viloyatlar-heading,.following-heading{
+.news-heading, .viloyatlar-heading{
     font-size: 32px;
     font-family: "Bebas Neue", serif;
 }
@@ -84,3 +84,19 @@ body{
 
 }
 
+.following-heading{
+    font-size: 27px;
+    font-family: "Bebas Neue", serif;
+    text-transform: uppercase;
+}
+
+.following-list{
+    list-style: none;
+
+}
+
+
+/* FOOTER */
+.site-footer{
+    background-color: #222;
+}
